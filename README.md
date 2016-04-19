@@ -1,0 +1,1 @@
+Resrever can reverse everything you want to reverse! It can reverse strings, arrays, numbers and data that can be casted to string.

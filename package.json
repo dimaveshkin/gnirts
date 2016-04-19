@@ -1,0 +1,13 @@
+{
+  "name": "resrever",
+  "description": "Reverse everything, that can be casted to string",
+  "author": "Dmytro Veshkin <dimaveshkin@gmail.com>",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimaveshkin/resrever.git"
+  },
+  "bugs": "https://github.com/dimaveshkin/resrever/issues"
+}
